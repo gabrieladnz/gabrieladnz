@@ -12,7 +12,7 @@ https://replit.com/@gabrieladiniz
 -->
 
 <div>
-👩🏻‍💻 Professional graduated in Systems Analysis and Development, currently in the 4th semester of a Software Engineering degree and pursuing a postgraduate course in Networks and Distributed Computing. I am constantly seeking to improve my skills by developing projects and learning new programming languages. You can follow my evolution through my repositories! Feel free to connect with me on my social networks.
+👩🏻‍💻 Professional graduated in Systems Analysis and Development, currently in the 5th semester of a Software Engineering degree and pursuing a postgraduate course in Networks and Distributed Computing. I am constantly seeking to improve my skills by developing projects and learning new programming languages. You can follow my evolution through my repositories! Feel free to connect with me on my social networks.
 </div>
 <br>
 
