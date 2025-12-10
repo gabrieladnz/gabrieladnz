@@ -12,7 +12,7 @@ https://replit.com/@gabrieladiniz
 -->
 
 <div>
-<strong>Hey!</strong> My name is Gabriela, I'm from Brazil and I'm a professional graduated in Systems Analysis and Development, currently in the 6th semester of my B.Sc. in Software Engineering and pursuing a postgrad in Networks and Distributed Computing.
+<strong>Hey!</strong> My name is Gabriela. I'm from Brazil and I'm a professional graduated in Systems Analysis and Development, currently in the 6th semester of my B.Sc. in Software Engineering and pursuing a postgrad in Networks and Distributed Computing.
 </div>
 <br>
 
