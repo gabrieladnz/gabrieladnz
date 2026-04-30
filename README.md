@@ -17,6 +17,7 @@ https://replit.com/@gabrieladiniz
 <br>
 
 - Dev.to: <a target="_blank" href="https://dev.to/gabrieladnz">dev.to/gabrieladnz</a>
+- Medium: <a target="_blank" href="https://medium.com/@gabrieladnz">medium/gabrieladnz</a>
 - GitLab: <a target="_blank" href="https://gitlab.com/gabrieladnz">gitlab/gabrieladnz</a>
 - Linkedin: <a target="_blank" href="https://www.linkedin.com/in/gabrieladnz/">linkedin/gabrieladnz</a>
 - :envelope:	Do you want to get in touch? Send me an email! <a href="mailto:seuemail@example.com">gabrieladnz.dev@gmail.com</a>
